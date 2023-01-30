@@ -1,0 +1,39 @@
+.card{
+    width: 400px;
+    border: 1px solid lightgray;
+    padding: 10px;
+    margin: 20px auto;
+    border-radius: 16px;
+
+    
+}
+
+.card-img{
+    width: 100%;
+    border-radius: 18px;
+    position: relative;
+    
+    
+}
+
+.btn{
+    border-radius: 12px;
+    padding: 12px;
+    margin: 0px;
+    border: none;
+    background-color: black;
+    color: white;
+    
+}
+
+.plan{
+    position: absolute;
+    top: 30px;
+    margin: 20px;
+    border: 1px solid red;
+    padding: 6px;
+    margin: 12px;
+    background-color: white;
+    border: none;
+    border-radius: 18px ;
+}
